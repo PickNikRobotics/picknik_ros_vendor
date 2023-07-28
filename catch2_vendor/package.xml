@@ -5,7 +5,9 @@
   <version>3.4.0</version>
   <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later</description>
   <maintainer email="tyler@picknik.ai">Tyler Weaver</maintainer>
-  <license>Boost</license>
+
+  <license>BSD-3-Clause</license>   <!-- The contents of this package are BSD-3-Clause -->
+  <license>Boost</license>          <!-- Catch2 is Boost -->
 
   <url type="website">https://github.com/catchorg/Catch2</url>
 

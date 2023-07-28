@@ -7,7 +7,7 @@ find_package(ament_cmake_vendor_package REQUIRED)
 find_package(Catch2 3.4.0 QUIET)
 
 ament_vendor(catch2_vendor
-  SATISFIED ${catch2_FOUND}
+  SATISFIED ${Catch2_FOUND}
   VCS_URL https://github.com/catchorg/Catch2.git
   VCS_VERSION v3.4.0
 )
