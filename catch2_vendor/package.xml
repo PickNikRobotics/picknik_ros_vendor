@@ -7,7 +7,7 @@
   <maintainer email="tyler@picknik.ai">Tyler Weaver</maintainer>
 
   <license>BSD-3-Clause</license>   <!-- The contents of this package are BSD-3-Clause -->
-  <license>Boost</license>          <!-- Catch2 is Boost -->
+  <license>BSL-1.0</license>          <!-- Catch2 is Boost -->
 
   <url type="website">https://github.com/catchorg/Catch2</url>
 
