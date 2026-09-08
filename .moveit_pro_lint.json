@@ -1,9 +1,0 @@
-{
-  "license_mismatch_exceptions": [
-    {
-      "path": "catch2_vendor/package.xml",
-      "license": "BSL-1.0",
-      "reason": "Catch2 is redistributed under its upstream Boost Software License 1.0"
-    }
-  ]
-}
